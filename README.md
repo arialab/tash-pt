@@ -6,4 +6,4 @@ O dataset é composto por um arquivo CSV que contém duas colunas. A primeira tr
  
 O dataset não possui o conteúdo textual dos tweets, pois tal disponibilização fere
 as regras de privacidade do Twitter. Por isso, é necessário utilizar a API do Twitter
-para recuperar o conteúdo das mensagens através dos IDs nos arquivos.
+para recuperar o conteúdo das mensagens através dos IDs.
